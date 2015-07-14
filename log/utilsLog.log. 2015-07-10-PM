@@ -1,0 +1,104 @@
+14:44:12,249 DEBUG com.fanatics.seed.ApachePOI:25 - Entered readXLSXFile method.
+14:44:12,253  INFO com.fanatics.seed.ApachePOI:26 - Entered readXLSXFile method.
+14:44:12,253 DEBUG com.fanatics.seed.ApachePOI:29 - Created File Input Stream Object
+14:44:12,955 DEBUG com.fanatics.seed.ApachePOI:31 - Created XSSFWorkbook Object
+14:44:12,955 DEBUG com.fanatics.seed.ApachePOI:33 - Created XSSFSheet Object
+14:44:12,955 DEBUG com.fanatics.seed.ApachePOI:35 - Created Row Iterator
+14:44:12,955 DEBUG com.fanatics.seed.ApachePOI:37 - Iterating rows in excel.
+14:44:12,955 DEBUG com.fanatics.seed.ApachePOI:41 - Created Cell Iterator.
+14:44:12,955 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,960 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,960 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,960 DEBUG com.fanatics.seed.ApachePOI:58 - Deleting last character.
+14:44:12,961 DEBUG com.fanatics.seed.ApachePOI:60 - Added row to the array list.
+14:44:12,961 DEBUG com.fanatics.seed.ApachePOI:37 - Iterating rows in excel.
+14:44:12,961 DEBUG com.fanatics.seed.ApachePOI:41 - Created Cell Iterator.
+14:44:12,961 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,962 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,962 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,962 DEBUG com.fanatics.seed.ApachePOI:58 - Deleting last character.
+14:44:12,962 DEBUG com.fanatics.seed.ApachePOI:60 - Added row to the array list.
+14:44:12,962 DEBUG com.fanatics.seed.ApachePOI:37 - Iterating rows in excel.
+14:44:12,962 DEBUG com.fanatics.seed.ApachePOI:41 - Created Cell Iterator.
+14:44:12,963 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,963 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,963 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,963 DEBUG com.fanatics.seed.ApachePOI:58 - Deleting last character.
+14:44:12,963 DEBUG com.fanatics.seed.ApachePOI:60 - Added row to the array list.
+14:44:12,963 DEBUG com.fanatics.seed.ApachePOI:37 - Iterating rows in excel.
+14:44:12,964 DEBUG com.fanatics.seed.ApachePOI:41 - Created Cell Iterator.
+14:44:12,964 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,964 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,964 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,964 DEBUG com.fanatics.seed.ApachePOI:58 - Deleting last character.
+14:44:12,964 DEBUG com.fanatics.seed.ApachePOI:60 - Added row to the array list.
+14:44:12,964 DEBUG com.fanatics.seed.ApachePOI:37 - Iterating rows in excel.
+14:44:12,964 DEBUG com.fanatics.seed.ApachePOI:41 - Created Cell Iterator.
+14:44:12,964 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,965 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,965 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,965 DEBUG com.fanatics.seed.ApachePOI:58 - Deleting last character.
+14:44:12,965 DEBUG com.fanatics.seed.ApachePOI:60 - Added row to the array list.
+14:44:12,965 DEBUG com.fanatics.seed.ApachePOI:37 - Iterating rows in excel.
+14:44:12,965 DEBUG com.fanatics.seed.ApachePOI:41 - Created Cell Iterator.
+14:44:12,965 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,966 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,966 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+14:44:12,966 DEBUG com.fanatics.seed.ApachePOI:58 - Deleting last character.
+14:44:12,966 DEBUG com.fanatics.seed.ApachePOI:60 - Added row to the array list.
+14:44:12,966  INFO com.fanatics.seed.ApachePOI:63 - Data read from excel sheet successfully.
+14:44:12,966 DEBUG com.fanatics.seed.ApachePOI:64 - Data read from excel sheet successfully.
+14:44:12,968  INFO com.fanatics.seed.ApachePOI:77 - Returning back to the calling method.
+14:44:12,968 DEBUG com.fanatics.seed.ApachePOI:78 - Returning back to the calling method.
+15:23:06,100 DEBUG com.fanatics.seed.ApachePOI:25 - Entered readXLSXFile method.
+15:23:06,103  INFO com.fanatics.seed.ApachePOI:26 - Entered readXLSXFile method.
+15:23:06,103 DEBUG com.fanatics.seed.ApachePOI:29 - Created File Input Stream Object
+15:23:06,802 DEBUG com.fanatics.seed.ApachePOI:31 - Created XSSFWorkbook Object
+15:23:06,802 DEBUG com.fanatics.seed.ApachePOI:33 - Created XSSFSheet Object
+15:23:06,802 DEBUG com.fanatics.seed.ApachePOI:35 - Created Row Iterator
+15:23:06,802 DEBUG com.fanatics.seed.ApachePOI:37 - Iterating rows in excel.
+15:23:06,802 DEBUG com.fanatics.seed.ApachePOI:41 - Created Cell Iterator.
+15:23:06,802 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,807 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,808 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,808 DEBUG com.fanatics.seed.ApachePOI:58 - Deleting last character.
+15:23:06,808 DEBUG com.fanatics.seed.ApachePOI:60 - Added row to the array list.
+15:23:06,808 DEBUG com.fanatics.seed.ApachePOI:37 - Iterating rows in excel.
+15:23:06,808 DEBUG com.fanatics.seed.ApachePOI:41 - Created Cell Iterator.
+15:23:06,808 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,810 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,810 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,810 DEBUG com.fanatics.seed.ApachePOI:58 - Deleting last character.
+15:23:06,810 DEBUG com.fanatics.seed.ApachePOI:60 - Added row to the array list.
+15:23:06,810 DEBUG com.fanatics.seed.ApachePOI:37 - Iterating rows in excel.
+15:23:06,810 DEBUG com.fanatics.seed.ApachePOI:41 - Created Cell Iterator.
+15:23:06,810 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,811 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,811 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,811 DEBUG com.fanatics.seed.ApachePOI:58 - Deleting last character.
+15:23:06,811 DEBUG com.fanatics.seed.ApachePOI:60 - Added row to the array list.
+15:23:06,811 DEBUG com.fanatics.seed.ApachePOI:37 - Iterating rows in excel.
+15:23:06,811 DEBUG com.fanatics.seed.ApachePOI:41 - Created Cell Iterator.
+15:23:06,811 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,812 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,812 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,812 DEBUG com.fanatics.seed.ApachePOI:58 - Deleting last character.
+15:23:06,812 DEBUG com.fanatics.seed.ApachePOI:60 - Added row to the array list.
+15:23:06,812 DEBUG com.fanatics.seed.ApachePOI:37 - Iterating rows in excel.
+15:23:06,812 DEBUG com.fanatics.seed.ApachePOI:41 - Created Cell Iterator.
+15:23:06,812 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,813 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,813 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,813 DEBUG com.fanatics.seed.ApachePOI:58 - Deleting last character.
+15:23:06,813 DEBUG com.fanatics.seed.ApachePOI:60 - Added row to the array list.
+15:23:06,813 DEBUG com.fanatics.seed.ApachePOI:37 - Iterating rows in excel.
+15:23:06,813 DEBUG com.fanatics.seed.ApachePOI:41 - Created Cell Iterator.
+15:23:06,813 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,814 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,814 DEBUG com.fanatics.seed.ApachePOI:44 - Iterating Cells in excel.
+15:23:06,814 DEBUG com.fanatics.seed.ApachePOI:58 - Deleting last character.
+15:23:06,814 DEBUG com.fanatics.seed.ApachePOI:60 - Added row to the array list.
+15:23:06,815  INFO com.fanatics.seed.ApachePOI:63 - Data read from excel sheet successfully.
+15:23:06,815 DEBUG com.fanatics.seed.ApachePOI:64 - Data read from excel sheet successfully.
+15:23:06,816  INFO com.fanatics.seed.ApachePOI:77 - Returning back to the calling method.
+15:23:06,816 DEBUG com.fanatics.seed.ApachePOI:78 - Returning back to the calling method.
