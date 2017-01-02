@@ -2,7 +2,7 @@
  * @author sshringarpure
  * 
  */
-package com.fanatics.seed;
+package com.cbsp.seed;
 
 import java.net.URL;
 import java.util.List;
@@ -695,6 +695,78 @@ public class FFDriver {
 				return driver.findElementByClassName(className);
 			}
 		});
+	}
+	
+	/**
+	 * 
+	 * @param className
+	 * @return WebElement
+	 */
+	public WebElement findElementByClassName(final String className) {
+		return this.ff.findElementByClassName(className);
+	}
+	
+	/**
+	 * 
+	 * @param cssSelector
+	 * @return WebElement
+	 */
+	public WebElement findElementByCssSelector(final String cssSelector) {
+		return this.ff.findElementByCssSelector(cssSelector);
+	}
+	
+	/**
+	 * 
+	 * @param id
+	 * @return WebElement
+	 */
+	public WebElement findElementById(final String id) {
+		return this.ff.findElementById(id);
+	}
+	
+	/**
+	 * 
+	 * @param linkText
+	 * @return WebElement
+	 */
+	public WebElement findElementByLinkText(final String linkText) {
+		return this.ff.findElementByLinkText(linkText);
+	}
+	
+	/**
+	 * 
+	 * @param name
+	 * @return WebElement
+	 */
+	public WebElement findElementByName(final String name) {
+		return this.ff.findElementByName(name);
+	}
+	
+	/**
+	 * 
+	 * @param partialLinkText
+	 * @return WebElement
+	 */
+	public WebElement findElementByPartialLinkText(final String partialLinkText) {
+		return this.ff.findElementByPartialLinkText(partialLinkText);
+	}
+	
+	/**
+	 * 
+	 * @param tagName
+	 * @return WebElement
+	 */
+	public WebElement findElementByTagName(final String tagName) {
+		return this.ff.findElementByTagName(tagName);
+	}
+	
+	/**
+	 * 
+	 * @param xpath
+	 * @return WebElement
+	 */
+	public WebElement findElementByXpath(final String xpath) {
+		return this.ff.findElementByXPath(xpath);
 	}
 	
 	/**
